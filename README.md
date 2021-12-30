@@ -1,4 +1,4 @@
-# investigate-tmdb_movies
+# Investigate The Movie Database movies
 Udacity Course project
 
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
